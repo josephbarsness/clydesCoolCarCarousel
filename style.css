@@ -1,4 +1,6 @@
 .titleCenter {
     text-align: center !important;
     margin: auto !important;
+    color: white;
+    font-size: 50px;
 }
